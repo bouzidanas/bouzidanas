@@ -14,6 +14,10 @@
 # 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="bouzidanas's Stats">
+</p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouzidanas&theme=dracula&hide_border=true" alt="bouzidanas's Streak">
+</p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="bouzidanas's Top Languages">
 </p>
