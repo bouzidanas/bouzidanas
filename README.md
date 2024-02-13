@@ -12,6 +12,8 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 📊 GitHub Stats:
+<p align="center">
 ![bouzidanas's Stats](https://github-readme-stats.vercel.app/api?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+</p>
 ![bouzidanas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouzidanas&theme=dracula&hide_border=true)
 ![bouzidanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
