@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Anas 👋
 
-# 💫 About Me:
+A little about me...
 - 🔭 I’m currently exploring the exciting realms of React and UI design, combining my passion for frontend development with creating beautiful and intuitive user interfaces.
 - 🌱 I’m currently learning about the various ways other creative minds are using threejs to create fresh and engaging user experiences. 
 - 👯 I’m looking to collaborate on further developing RHP, a charting component library built entirely in React and designed with web devs in mind.
 - 💬 Ask me about designing and developing in-house and open-source tools for developers and scientists alike, with a focus on Data Visualization 📊.
 
-# 💻 Tech Stack:
+Languages and tools I have used before (or am currently using) include...
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,7 +30,7 @@
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
-# 📊 GitHub Stats:
+My Github stats...
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="bouzidanas's Stats">
 </p>
