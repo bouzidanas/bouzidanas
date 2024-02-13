@@ -13,7 +13,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-![bouzidanas's Stats](https://github-readme-stats.vercel.app/api?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="bouzidanas's Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bouzidanas&theme=dracula&hide_border=true" alt="bouzidanas's Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="bouzidanas's Top Languages">
 </p>
-![bouzidanas's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bouzidanas&theme=dracula&hide_border=true)
-![bouzidanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&layout=compact)
