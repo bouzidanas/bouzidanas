@@ -8,6 +8,7 @@ A little about me...
 
 Languages and tools I have used before (or am currently using) include...
 
+---
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,6 +33,7 @@ Languages and tools I have used before (or am currently using) include...
 ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
+---
 My Github stats...
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bouzidanas&theme=dracula&show_icons=true&hide_border=true&count_private=false" alt="bouzidanas's Stats">
