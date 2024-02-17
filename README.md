@@ -3,7 +3,7 @@
 A little about me...
 - 🔭 I’m currently exploring the exciting realms of React and UI design, combining my passion for frontend development with creating beautiful and intuitive user interfaces.
 - 🌱 I’m currently learning about the various ways other creative minds are using threejs to create fresh and engaging user experiences. 
-- 👯 I’m looking to collaborate on further developing RHP, a charting component library built entirely in React and designed with web devs in mind.
+- 👯 I’m looking to collaborate on further developing **rhp**, a charting component library built entirely in React and designed with web devs in mind.
 - 💬 Ask me about designing and developing in-house and open-source tools for developers and scientists alike, with a focus on Data Visualization 📊.
 
 Languages and tools I have used before (or am currently using) include...
