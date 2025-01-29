@@ -1,10 +1,9 @@
 ### Hi there, I'm Anas 👋
 
-A little about me...
-- 🔭 I’m currently exploring the exciting realms of React and UI design, combining my passion for frontend development with creating beautiful and intuitive user interfaces.
-- 🌱 I’m currently learning about the various ways other creative minds are using threejs to create fresh and engaging user experiences. 
-- 👯 I’m looking to collaborate on further developing [**rhp**](https://rhp.vercel.app/), a charting component library built entirely in React and designed with web devs in mind.
-- 💬 Ask me about designing and developing in-house and open-source tools for developers and scientists alike, with a focus on Data Visualization 📊.
+Currently, I am ...
+- 🔭 Exploring React and UI design to create beautiful, intuitive interfaces.
+- 👯 Looking to collaborate on rhp, a React charting library for web developers.
+- 💬 Developing tools for developers and scientists on popular platforms like Streamlit, usually for Data Visualization, Machine Learning, and Computer Science applications.
 
 Languages and tools I have used before (or am currently using) include...
 
