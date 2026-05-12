@@ -1,6 +1,6 @@
 ## 👋 Full-Stack Software Engineer | Python, React, Test Engineering, Developer Tools & AI Evaluation
 
-Building practical software tools across frontend, backend, testing, and scientific computing. I enjoy work that turns complex technical workflows into reliable, usable applications.
+Building practical software tools across frontend, backend, testing, and scientific computing.
 
 ### 🔧 My Stack
 
