@@ -13,10 +13,9 @@ Building practical software tools across frontend, backend, testing, and scienti
 ### 💡 What I'm About
 
 * Building full-stack applications, internal tools, and developer-facing libraries
-* Creating reliable test suites and improving software workflows through automation
-* Developing data visualization tools and scientific computing workflows
+* Creating reliable test suites and optimizing CI/CD pipelines through automation
+* Developing data visualization tools and scientific computing applications for research and analysis
 * Evaluating AI-generated code and building ground-truth reference solutions
-* Writing clear, maintainable code that helps technical users work more effectively
 
 ### 🤝 Open to
 
