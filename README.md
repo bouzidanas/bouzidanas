@@ -7,7 +7,7 @@ I build tools and apps across **embedded, mobile, and web platforms**.
 - 🐍 Creator of [PyNote](https://github.com/bouzidanas/pynote-notebook-editor) (a snappy, zero-setup Python notebook environment) · [TRY IT](https://pynote-notebook.vercel.app/?open=tutorial)
 - 🧩 Creator of [streamlit-code-editor](https://github.com/bouzidanas/streamlit-code-editor) (a customizable code editor component for Streamlit)
 - 📊 Exploring data visualization, dev tools, and automation in Python, React, and SolidJS
-- 🧪 Background in QA, test engineering, AI evaluation & scientific computing
+- 🧪 Background in QA, test engineering, AI evaluation, and scientific computing
 - 💡 Always tinkering with open-source tools and libraries (nbconvert, jupyter, revealjs, D3.js, streamlit)
 
 ## 💡 What am I doing here?
