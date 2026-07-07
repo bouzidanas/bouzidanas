@@ -18,7 +18,6 @@ I am currently working on PyNote which is a snappy, zero-setup Python Notebook e
 
 ## 🤝 Lets connect!
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/bezdazen)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/anasbouzid)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://discuss.streamlit.io/u/bouzidanas)
 
