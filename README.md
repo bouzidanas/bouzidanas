@@ -26,3 +26,4 @@ I am currently working on PyNote which is a snappy, zero-setup Python Notebook e
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bouzidanas&theme=dracula&hide_border=true" alt="bouzidanas's Streak">
 </p>
+
